@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="a" path="ActionManager" hit="Hey bro, here comes a new line." />
+    <option name="bro" path="ActionManager" hit="Hey bro, here comes a new line." />
+    <option name="comes" path="ActionManager" hit="Hey bro, here comes a new line." />
+    <option name="here" path="ActionManager" hit="Hey bro, here comes a new line." />
+    <option name="hey" path="ActionManager" hit="Hey bro, here comes a new line." />
+    <option name="line" path="ActionManager" hit="Hey bro, here comes a new line." />
+    <option name="new" path="ActionManager" hit="Hey bro, here comes a new line." />
+    <option name="here" path="ActionManager" hit="Jump out of here!" />
+    <option name="jump" path="ActionManager" hit="Jump out of here!" />
+    <option name="of" path="ActionManager" hit="Jump out of here!" />
+    <option name="out" path="ActionManager" hit="Jump out of here!" />
+    <option name="jump" path="ActionManager" hit="Jump {}" />
+    <option name="lineselect" path="ActionManager" hit="LineSelect" />
+    <option name="newlinereplace" path="ActionManager" hit="NewLineReplace" />
+  </configurable>
+</options>
+

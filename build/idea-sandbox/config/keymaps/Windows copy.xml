@@ -1,0 +1,28 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine" />
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
+  <action id="MyPlugin.jump">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="MyPlugin.nl">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="OpenElementInNewWindow" />
+  <action id="ViewSource" />
+</keymap>

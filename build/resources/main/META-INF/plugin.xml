@@ -1,0 +1,23 @@
+<idea-plugin>
+  <version>1.1</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="193.6494" until-build="193.*"/>
+  <id>org.example.untitled1</id>
+  <name>TinyJumper</name>
+  <vendor email="chenjifan98@qq.com" url="chenjifan.com">Gfan</vendor>
+  <description>A plugin which helps expand IDEA keyboard shortcut.</description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <group id="MyPlugin.Menu" text="PP" description="My plugins">
+      <add-to-group group-id="MainMenu" anchor="last"/>
+      <action id="MyPlugin.jump" class="JumpAction" text="Jump {}" description="Jump out of here!"/>
+      <add-to-group group-id="MainMenu" anchor="last"/>
+      <action id="MyPlugin.nl" class="NewLineReplaceAction" text="NewLineReplace" description="Hey bro, here comes a new line."/>
+      <add-to-group group-id="MainMenu" anchor="last"/>
+      <action id="MyPlugin.ls" class="LinesSelectAction" text="LinesSelect" description="精准而优雅。"/>
+    </group>
+  </actions>
+</idea-plugin>

@@ -1,0 +1,19 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\chenjifff\Desktop\Leet\.idea\workspace.xml" timestamp="1583251672221" />
+    <file path="C:\Users\chenjifff\Desktop\Leet\.idea\markdown-doclet.xml" timestamp="1568018795630" />
+    <file path="C:\Users\chenjifff\Desktop\Leet\Leet.iml" timestamp="1569590409024" />
+    <file path="C:\Users\chenjifff\Desktop\Leet\.idea\project-template.xml" timestamp="1568018794904" />
+    <file path="C:\Users\chenjifff\Desktop\Leet\.idea\encodings.xml" timestamp="1568018797764" />
+    <file path="C:\Users\chenjifff\Desktop\Leet\.idea\misc.xml" timestamp="1568018797750" />
+    <file path="C:\Users\chenjifff\Desktop\Leet\.idea\modules.xml" timestamp="1568018797772" />
+    <file path="C:\Users\chenjifff\Desktop\Leet\.idea\uiDesigner.xml" timestamp="1569590185265" />
+  </project-files>
+</conversion>
